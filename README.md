@@ -40,7 +40,7 @@ I hold a **B.Sc. in Information Technology (B.Sc-IT)** and have trained in tools
 ## 🌐 Connect with Me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/muthuswamynadar" target="blank">
+  <a href="https://www.linkedin.com/in/nadarmuthuswamy/" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="mailto:muthuswamynadar@example.com">
