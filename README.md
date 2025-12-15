@@ -46,7 +46,4 @@ I hold a **B.Sc. in Information Technology (B.Sc-IT)** and have trained in tools
   <a href="https://www.linkedin.com/in/nadarmuthuswamy/" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  <a href="mailto:muthuswamynadar25@gmail.com.com">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
-  </a>
 </p>
